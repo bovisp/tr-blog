@@ -1,0 +1,9 @@
+{
+  "name": "tr-blog",
+  "version": "0.0.1",
+  "description": "Theme for the TCDD Trainers Resources blog",
+  "main": "index.js",
+  "repository": "https://github.com/bovisp/tr-blog",
+  "author": "Paul Bovis",
+  "license": "MIT"
+}
