@@ -9191,3 +9191,7 @@ a.text-dark:hover {
   visibility: hidden !important;
 }
 
+.navbar > .container-fluid {
+  max-width: 1680px;
+}
+
